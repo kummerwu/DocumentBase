@@ -1,6 +1,8 @@
 {"Id":"00000000-0000-0000-0000-000000000000","PId":"00000000-0000-0000-0000-000000000000","Alias":["我的大脑"],"Children":["5e92a249-c9b1-4177-b8f4-5e1c8c94bec7","8b1fd337-e88f-4932-a1b5-e04447385264","aead1a07-54cf-4647-bab6-0b747eaf3c3f"]}
-{"Id":"3fb253c0-3884-4b38-a33d-d3bdb07dda8c","PId":"5e92a249-c9b1-4177-b8f4-5e1c8c94bec7","Alias":["程序设计"],"Children":[]}
+{"Id":"3fb253c0-3884-4b38-a33d-d3bdb07dda8c","PId":"5e92a249-c9b1-4177-b8f4-5e1c8c94bec7","Alias":["程序设计"],"Children":["a9c4f277-7899-4a74-9835-52cdec81d9f3"]}
 {"Id":"5e92a249-c9b1-4177-b8f4-5e1c8c94bec7","PId":"00000000-0000-0000-0000-000000000000","Alias":["我的学习"],"Children":["3fb253c0-3884-4b38-a33d-d3bdb07dda8c","8c53c81c-2d1a-41ed-81cc-8d8433c2b3c2"]}
+{"Id":"5e99a5b3-e59c-4b4d-97cd-39927988f643","PId":"aead1a07-54cf-4647-bab6-0b747eaf3c3f","Alias":["Git"],"Children":[]}
 {"Id":"8b1fd337-e88f-4932-a1b5-e04447385264","PId":"00000000-0000-0000-0000-000000000000","Alias":["我的生活"],"Children":[]}
 {"Id":"8c53c81c-2d1a-41ed-81cc-8d8433c2b3c2","PId":"5e92a249-c9b1-4177-b8f4-5e1c8c94bec7","Alias":["网络通讯"],"Children":[]}
-{"Id":"aead1a07-54cf-4647-bab6-0b747eaf3c3f","PId":"00000000-0000-0000-0000-000000000000","Alias":["工具使用"],"Children":[]}
+{"Id":"a9c4f277-7899-4a74-9835-52cdec81d9f3","PId":"3fb253c0-3884-4b38-a33d-d3bdb07dda8c","Alias":[".NetFramework"],"Children":[]}
+{"Id":"aead1a07-54cf-4647-bab6-0b747eaf3c3f","PId":"00000000-0000-0000-0000-000000000000","Alias":["工具使用"],"Children":["5e99a5b3-e59c-4b4d-97cd-39927988f643"]}
